@@ -4,8 +4,8 @@
 - 🔭 **Engenheiro mecânico** estudando para **ingressar no mercado de TI**;
 - 🌱 Até agora estudei algumas liguagens mas o que mais tenho gostado é **Phyton**;
 - 👯 Busco colaborar em projetos que **impactem positivamente de alguma maneira na sociedade**; 
-- 🤔 Caso você encontre algo nos meus códigos que possa ser otimizado, por favor me diga!
-- 😄 Ele/Dele
+- 🤔 Caso você encontre algo nos meus códigos que possa ser otimizado, por favor me diga;
+- 😄 Meus pronomes são ele/Dele;
 - ⚡ Fato engraçado é que eu também possuo um canal no YouTube voltado a um e-sport.
 
 ## O que estou programado: 
